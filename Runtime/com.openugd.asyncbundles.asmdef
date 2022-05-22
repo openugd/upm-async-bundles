@@ -1,0 +1,15 @@
+{
+    "name": "com.openugd.asyncbundles",
+    "references": [
+        "com.openugd.lifetime",
+        "com.openugd.signal"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

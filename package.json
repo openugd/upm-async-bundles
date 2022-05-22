@@ -1,0 +1,19 @@
+{
+    "name": "com.openugd.asyncbundles",
+    "displayName": "Async Bundles",
+    "version": "0.0.1",
+    "unity": "2021.3",
+    "author": "https://github.com/openugd",
+    "description": "A library for managing asynchronous loading and unloading of asset bundles.\n",
+    "keywords": [
+        "bundle",
+        "bundles",
+        "asyncbundle",
+        "asyncbundles"
+    ],
+    "dependencies": {
+        "com.openugd.lifetime": "1.1.0",
+        "com.openugd.signal": "1.0.0"
+    },
+    "category": "Unity"
+}
